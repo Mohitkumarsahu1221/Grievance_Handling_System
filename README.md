@@ -30,10 +30,10 @@ real-time grievance updates, feedback collection, data visualization, and report
 
 
 1. **Clone Repository**
-   ```bash
-   git clone https://github.com/Mohitkumarsahu1221/Grievance_Handling_System
-   cd grievance-handling-system
-   ```
+```bash
+git clone https://github.com/Mohitkumarsahu1221/Grievance_Handling_System
+cd grievance-handling-system
+```
 2. Create Virtual Environment
 ```bash
 python -m venv venv
@@ -50,9 +50,9 @@ python manage.py runserver
 ```
 ---
 
-🙌 Acknowledgements
-Django Documentation – https://docs.djangoproject.com/
+## 🙌 Acknowledgements
+**Django Documentation** – https://docs.djangoproject.com/
 
-Bootstrap – https://getbootstrap.com/
+**Bootstrap** – https://getbootstrap.com/
 
-Chart.js – https://www.chartjs.org/
+**Chart.js** – https://www.chartjs.org/
