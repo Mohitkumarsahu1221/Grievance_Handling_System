@@ -50,8 +50,22 @@ python manage.py runserver
 ---
 
 ## 🙌 Acknowledgements
+
+
 **Django Documentation** – https://docs.djangoproject.com/
 
 **Bootstrap** – https://getbootstrap.com/
 
 **Chart.js** – https://www.chartjs.org/
+
+---
+
+## 👀 Demo Outputs
+
+![Login ](https://github.com/user-attachments/assets/093e7f9b-17f4-4216-9ae8-a71ecedc1e9a)
+
+![Customer - Submission ](https://github.com/user-attachments/assets/9b300803-369c-4f2b-9773-0241230d5a79)
+
+![Admin - 2](https://github.com/user-attachments/assets/f7149b53-069e-4e85-958e-abdf4a0a8757)
+
+![Admin - Grievance Table ](https://github.com/user-attachments/assets/090a2ee2-0cf9-4a39-af71-3c0134a5ab00)
