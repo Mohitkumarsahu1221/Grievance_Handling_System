@@ -45,6 +45,7 @@ venv\Scripts\activate
 python manage.py runserver
 ```
 4. Users
+   
 • You can create customers and Employees easily, and for Admins one Admin superuser is already made(username: Admin; Pass: 1234pass).
 • To create more Admin users one can create manually or can go to <a href="http://127.0.0.1:8000/register-admin">Register Admin<a/> when you are logged in as admin to register New Admin.
 ---
