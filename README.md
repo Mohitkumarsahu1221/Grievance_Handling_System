@@ -35,7 +35,7 @@ Make sure Django 5.1 or higher and MySQL is installed.
    git clone https://github.com/Mohitkumarsahu1221/Grievance_Handling_System
    cd grievance-handling-system/grievance_system
    ```
-2. Create Virtual Environment
+2. Create Virtual Environment(*Optional)
    ```bash
    python -m venv venv
    venv\Scripts\activate
